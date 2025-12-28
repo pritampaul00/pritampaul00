@@ -6,4 +6,4 @@ With a solid foundation in **Data Structures and Object-Oriented Programming**, 
 
 ---
 
-![GitHub Snake](https://raw.githubusercontent.com/pritampaul00/pritampaul00/output/github-contribution-grid-snake.gif)
+![GitHub Snake](https://raw.githubusercontent.com/pritampaul00/pritampaul00/output/github-contribution-grid-snake.svg)
