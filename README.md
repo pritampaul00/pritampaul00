@@ -1,4 +1,4 @@
-## Hey! I'm Pritam Paul. 👋
+## Hey! I'm Pritam Paul. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I’m a Full-Stack Developer specializing in React.js, Node.js, Express.js, and MongoDB, with a strong focus on building scalable, secure web applications. I enjoy designing clean APIs, optimizing performance, and creating responsive user interfaces that deliver smooth user experiences.
 
