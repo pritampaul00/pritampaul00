@@ -6,6 +6,8 @@ I work across **Java, Spring Boot, Node.js, TypeScript, and React**, with a stro
 
 At TCS, I **optimized production APIs, improved database performance, strengthened system reliability, and built automated deployment pipelines**. Outside work, I build projects that explore **distributed systems, AI-powered applications, and cloud-native infrastructure**.
 
+---
+
 ### 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, TypeScript, SQL
@@ -20,6 +22,8 @@ At TCS, I **optimized production APIs, improved database performance, strengthen
 
 **Security:** JWT, Keycloak, Role-Based Access Control (RBAC)
 
+---
+
 ### 💼 Engineering Highlights
 
 - **Reduced average production API response time by 30%.**
@@ -27,7 +31,7 @@ At TCS, I **optimized production APIs, improved database performance, strengthen
 - **Improved client-facing system reliability by 25%.**
 - **Automated daily production releases** using GitHub Actions CI/CD.
 
-\<sub>Production achievements from my experience at TCS.\</sub>
+---
 
 ### 📈 GitHub Contributions
 
