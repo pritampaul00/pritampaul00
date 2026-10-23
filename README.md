@@ -1,4 +1,4 @@
-## Hey! I'm **Pritam Paul** \<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="30px">
+## Hey! I'm Pritam Paul. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 I'm a **Software Engineer and Full-Stack Developer** with experience building **production systems, scalable REST APIs, and cloud-native applications**.
 
