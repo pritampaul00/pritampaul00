@@ -34,7 +34,6 @@ At TCS, I **optimized production APIs, improved database performance, strengthen
 ---
 
 ### 📈 GitHub Contributions
-
 ![GitHub Snake](https://raw.githubusercontent.com/pritampaul00/pritampaul00/output/github-contribution-grid-snake.svg)
 
 ---
