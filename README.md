@@ -31,16 +31,15 @@ At TCS, I **optimized production APIs, improved database performance, strengthen
 
 ### 📈 GitHub Contributions
 
-
-
-### 🤝 Let's Connect
-
-- [**LinkedIn**](https://www.linkedin.com/in/paulpritam2000)
-- [**GitHub**](https://github.com/Pritam-Paul)
-- [**Email**](mailto:pritampaul.10000@gmail.com)
-
-I'm interested in opportunities across **Backend Engineering, Full-Stack Development, and Software Engineering**.
+![GitHub Snake](https://raw.githubusercontent.com/pritampaul00/pritampaul00/output/github-contribution-grid-snake.svg)
 
 ---
 
-![GitHub Snake](https://raw.githubusercontent.com/pritampaul00/pritampaul00/output/github-contribution-grid-snake.svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://reet.dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulpritam2000)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/paulpritam00/)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=reetpriye&left_color=gray&right_color=blue) - Unneccessary stuff, keeps incrementing on reload -->
+
+I'm interested in opportunities across **Backend Engineering, Full-Stack Development, and Software Engineering**.
+
+
